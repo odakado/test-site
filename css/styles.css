@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
     /* left: 150px; */
     left: 92px;
     /* background-color: red; */
-    background-image: url(/images/girl.png);
+    background-image: url(images/girl.png);
     background-size:contain;
     background-repeat: no-repeat;
     background-position: right;
